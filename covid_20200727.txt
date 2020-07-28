@@ -1,0 +1,221 @@
+Água Branca;47
+Aguiar;22
+Alagoa Grande;711
+Alagoa Nova;238
+Alagoinha;666
+Alcantil;31
+Algodão de Jandaíra;5
+Alhandra;514
+Amparo;16
+Aparecida;51
+Araçagi;433
+Arara;165
+Araruna;213
+Areia;291
+Areia de Baraúnas;10
+Areial;38
+Aroeiras;155
+Assunção;40
+Baia da Traição;432
+Bananeiras;138
+Baraúna;126
+Barra de Santa Rosa;41
+Barra de Santana;73
+Barra de São Miguel;35
+Bayeux;1286
+Belém;679
+Belém do Brejo do Cruz;20
+Bernardino Batista;6
+Boa Ventura;4
+Boa Vista;64
+Bom Jesus;9
+Bom Sucesso;11
+Bonito de Santa Fé;11
+Boqueirão;277
+Borborema;7
+Brejo do Cruz;225
+Brejo dos Santos;20
+Caaporã;883
+Cabaceiras;51
+Cabedelo;2299
+Cachoeira dos Índios;67
+Cacimba de Areia;8
+Cacimba de Dentro;142
+Cacimbas;43
+Caiçara;361
+Cajazeiras;1128
+Cajazeirinhas;18
+Caldas Brandão;145
+Camalaú;1
+Campina Grande;10104
+Capim;137
+Caraúbas;32
+Carrapateira;28
+Casserengue;191
+Catingueira;17
+Catolé do Rocha;229
+Caturité;70
+Conceição;218
+Condado;111
+Conde;623
+Congo;48
+Coremas;100
+Coxixola;17
+Cruz do Espírito Santo;261
+Cubati;68
+Cuité;146
+Cuité de Mamanguape;98
+Cuitegí;290
+Curral de Cima;21
+Curral Velho;1
+Damião;11
+Desterro;50
+Diamante;14
+Dona Inês;80
+Duas Estradas;58
+Emas;28
+Esperança;383
+Fagundes;78
+Frei Martinho;6
+Gado Bravo;87
+Guarabira;3241
+Gurinhém;356
+Gurjão;20
+Ibiara;30
+Igaracy;6
+Imaculada;34
+Ingá;840
+Itabaiana;965
+Itaporanga;102
+Itapororoca;544
+Itatuba;255
+Jacaraú;238
+Jericó;8
+João Pessoa;20245
+Joca Claudino;2
+Juarez Távora;247
+Juazeirinho;147
+Junco do Seridó;35
+Juripiranga;414
+Juru;33
+Lagoa;6
+Lagoa de Dentro;101
+Lagoa Seca;572
+Lastro;16
+Livramento;64
+Logradouro;115
+Lucena;297
+Mãe d'Água;15
+Malta;45
+Mamanguape;1975
+Manaíra;9
+Marcação;188
+Mari;913
+Marizópolis;21
+Massaranduba;287
+Mataraca;146
+Matinhas;66
+Mato Grosso;11
+Matureia;25
+Mogeiro;129
+Montadas;38
+Monte Horebe;14
+Monteiro;238
+Mulungu;278
+Natuba;48
+Nazarezinho;25
+Nova Floresta;46
+Nova Olinda;11
+Nova Palmeira;44
+Olho D´Água;37
+Olivedos;57
+Parari;5
+Passagem;30
+Patos;2337
+Paulista;97
+Pedra Branca;1
+Pedra Lavrada;33
+Pedras de Fogo;1175
+Pedro Régis;38
+Piancó;123
+Picuí;164
+Pilar;246
+Pilões;70
+Pilõezinhos;207
+Pirpirituba;230
+Pitimbu;566
+Pocinhos;97
+Poço Dantas;4
+Poço de José Moura;10
+Pombal;287
+Prata;4
+Princesa Isabel;59
+Puxinanã;230
+Queimadas;829
+Quixaba;27
+Remígio;214
+Riachão;51
+Riachão do Bacamarte;209
+Riachão do Poço;72
+Riacho de Santo Antônio;27
+Riacho dos Cavalos;9
+Rio Tinto;878
+Salgadinho;17
+Salgado de São Felix;188
+Santa Cecília;54
+Santa Cruz;38
+Santa Helena;20
+Santa Inês;37
+Santa Luzia;201
+Santa Rita;1978
+Santa Terezinha;48
+Santana de Mangueira;5
+Santana dos Garrotes;14
+Santo André;14
+São Bentinho;38
+São Bento;1175
+São Domingos do Cariri;43
+São Francisco;33
+São João do Cariri;90
+São João do Rio do Peixe;169
+São João do Tigre;5
+São José da Lagoa Tapada;38
+São José de Caiana;32
+São José de Espinharas;20
+São José de Piranhas;143
+São José de Princesa;2
+São José do Bonfim;56
+São José do Brejo do Cruz;7
+São José do Sabugi;189
+São José dos Cordeiros;23
+São José dos Ramos;201
+São Mamede;39
+São Miguel de Taipu;106
+São Sebastião de Lagoa de Roça;179
+São Sebastião do Umbuzeiro;7
+São Vicente do Seridó;47
+Sapé;825
+Serra Branca;128
+Serra da Raíz;17
+Serra Grande;8
+Serra Redonda;193
+Serraria;112
+Sertãozinho;102
+Sobrado;157
+Solânea;281
+Soledade;126
+Sossego;8
+Sousa;960
+Sumé;183
+Tacima;103
+Taperoá;60
+Tavares;64
+Teixeira;132
+Tenório;14
+Triunfo;32
+Uiraúna;46
+Umbuzeiro;60
+Várzea;11
+Vieirópolis;4
+Vista Serrana;2
+Zabelê;20
